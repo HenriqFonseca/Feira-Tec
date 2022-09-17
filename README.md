@@ -10,5 +10,8 @@
 - ``Lavarel``
 - ``HTML``
 - ``PHP``
+- - ``HEROKU``
+- ``MYSQL``
+
 
 
