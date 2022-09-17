@@ -20,5 +20,7 @@
 - ``HEROKU``
 - ``MYSQL``
 
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Antonio William</sub>](https://github.com/AntonioWilliam) |  
+| :---: | :---: | :---: |
 
 
